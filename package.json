@@ -1,0 +1,20 @@
+{
+  "name": "node_adcpi",
+  "description": "",
+  "author": "Marcel Bretschneider",
+  "version": "0.1.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": "mbretschn/node_adcpi",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "*"
+  }
+}
