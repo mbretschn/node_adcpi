@@ -7,14 +7,11 @@
   "files": [
     "index.js"
   ],
-  "scripts": {
-    "test": "ava"
-  },
+  "scripts": {},
   "repository": "mbretschn/node_adcpi",
   "keywords": [],
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {
-    "ava": "*"
+  "dependencies": {
+    "rpio": "^2.4.2"
   }
 }
